@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Задача 3: Написать программу, которая на вход принимает число 
+// и выдает является ли это число четным
+int a = 7;
+
+if(a == 0){
+    Console.WriteLine($" Число {a} является нулем!"); // проверка на 0
+}
+else if (a % 2 == 0){
+    Console.WriteLine($" Число {a} является четным!"); // проверка остатка деления на 2
+}
+else 
+    Console.WriteLine($"Число {a} является нечетным!");
