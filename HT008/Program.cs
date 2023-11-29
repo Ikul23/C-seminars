@@ -13,6 +13,7 @@ void DigitsFunc(int num)
         {
             int digit = num % 10;
             Console.Write($"{digit}, ");
-            num /= 10;
+            num /= 10; 
         }
+             
 }
