@@ -23,15 +23,15 @@ void ShowArray(int[] array)
     Console.WriteLine();
 }
 
-void ReverseArray(int[] r_array) // метод переворачивания массива
+void ReverseArray(int[] rArray) // метод переворачивания массива
 {
-    int[] reversedArray = new int[r_array.Length];
+    int[] reversedArray = new int[rArray.Length];
 
-    for (int i = 0; i < r_array.Length; i++)
+    for (int i = 0; i < rArray.Length; i++)
     {
-        reversedArray[i] = r_array[r_array.Length - 1 - i];
+        reversedArray[i] = rArray[rArray.Length - 1 - i];
     }
-    Array.Copy(reversedArray, r_array, r_array.Length); // копирует обратно в r_array перевернутый массив
+    Array.Copy(reversedArray, rArray, rArray.Length); // копирует обратно в r_array перевернутый массив
 }
 Console.WriteLine("Задайте размер массива");
 int size = Convert.ToInt32(Console.ReadLine());
