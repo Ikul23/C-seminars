@@ -16,3 +16,12 @@
  Задача2: https://github.com/Ikul23/C-seminars/tree/main/HT020;
 
  Задача3: https://github.com/Ikul23/C-seminars/tree/main/HT021.
+
+
+Домашнее задание к уроку 'Рекурсия. Промежуточная аттестация'
+
+ Задача1: ; 
+ 
+ Задача2: ;
+
+ Задача3: .
