@@ -20,8 +20,8 @@
 
 Домашнее задание к уроку 'Рекурсия. Промежуточная аттестация'
 
- Задача1: ; 
+ Задача1: https://github.com/Ikul23/C-seminars/tree/main/HT022_final; 
  
- Задача2: ;
+ Задача2: https://github.com/Ikul23/C-seminars/tree/main/HT023_final;
 
- Задача3: .
+ Задача3: https://github.com/Ikul23/C-seminars/tree/main/HT024_final.
