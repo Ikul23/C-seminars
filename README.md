@@ -6,6 +6,7 @@
  Задача4: <C:\Users\ikul2\Desktop\GitHub\NewRep\C#\Seminars\HT018_2DAr>.
 
 Домашнее задание к уроку 'Массивы и строки'
- Задача1: <C:\Users\ikul2\Desktop\GitHub\NewRep\C#\Seminars\HT019>; 
- Задача2: <C:\Users\ikul2\Desktop\GitHub\NewRep\C#\Seminars\HT020>;
+
+ Задача1: <(https://github.com/Ikul23/C-seminars/tree/main/HT019)>; 
+ Задача2: <>;
  Задача3: <C:\Users\ikul2\Desktop\GitHub\NewRep\C#\Seminars\HT021>.
