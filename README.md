@@ -8,5 +8,6 @@
 Домашнее задание к уроку 'Массивы и строки'
 
  Задача1: <(https://github.com/Ikul23/C-seminars/tree/main/HT019)>; 
- Задача2: <>;
+ 
+ Задача2: <https://github.com/Ikul23/C-seminars/tree/main/HT020>;
  Задача3: <C:\Users\ikul2\Desktop\GitHub\NewRep\C#\Seminars\HT021>.
